@@ -1,5 +1,5 @@
 local LightCoding = loadstring(game:HttpGet("https://raw.githubusercontent.com/AbobaLua/LightCoding/main/Source.lua"))()
-local pfireclickd = LightCoding.Functs.pfireclickd
+local pfireclickd = LightCoding:GetFunc("pfireclickd")
 local easterFolder = workspace.Easter.Every_Egg_Ever
 
 if not easterFolder then
