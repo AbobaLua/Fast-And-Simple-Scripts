@@ -1,5 +1,5 @@
 local LightCoding = loadstring(game:HttpGet("https://raw.githubusercontent.com/AbobaLua/LightCoding/main/Source.lua"))()
-local pfiretouchinterest = LightCoding.Functs.pfiretouchinterest
+local pfiretouchinterest = LightCoding:GetFunc("pfiretouchinterest")
 local gemNames = {"Diamond", "Emerald", "Ruby", "Sapphire"}
 local connection = nil
 local plr = game.Players.LocalPlayer
