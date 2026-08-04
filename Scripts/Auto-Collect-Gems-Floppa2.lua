@@ -9,7 +9,6 @@ function CollectGems()
         connection = nil
         return
     end
-    
     connection = game:GetService("RunService").Heartbeat:Connect(function()
         for _, gemName in ipairs(gemNames) do
             local gem = workspace:FindFirstChild(gemName)
