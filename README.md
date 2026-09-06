@@ -10,5 +10,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AbobaLua/Fast-And-Sim
  ```
  ## Jujutsu Advanced Throw
  ```lua
- loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/AbobaLua/Fast-And-Simple-Scripts/main/Scripts/Trow%20Advanced.JJS.lua"))()
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/AbobaLua/Fast-And-Simple-Scripts/main/Scripts/Trow%20Advanced.JJS.lua"))()
  ```
